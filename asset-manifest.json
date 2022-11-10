@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Basic-Registration-From/static/css/main.0c957b51.css",
+    "main.js": "/Basic-Registration-From/static/js/main.029b3ed2.js",
+    "index.html": "/Basic-Registration-From/index.html",
+    "main.0c957b51.css.map": "/Basic-Registration-From/static/css/main.0c957b51.css.map",
+    "main.029b3ed2.js.map": "/Basic-Registration-From/static/js/main.029b3ed2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c957b51.css",
+    "static/js/main.029b3ed2.js"
+  ]
+}
