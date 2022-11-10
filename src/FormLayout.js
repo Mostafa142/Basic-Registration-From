@@ -37,7 +37,7 @@ const FormLayout = () => {
 
   return (
     <div className="h-screen flex flex-col justify-center items-center">
-      <h1 className="mb-4 text-2xl font-extrabold tracking-tight leading-none text-gray-900 md:text-2xl lg:text-4xl dark:text-white">
+      <h1 className="mb-4 text-2xl font-extrabold tracking-tight leading-none text-gray-900 md:text-2xl lg:text-4xl dark:text-gray-900">
         Basic Registration Form
       </h1>
 
